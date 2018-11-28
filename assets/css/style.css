@@ -79,6 +79,7 @@ a:hover {
 #bullets{
 	font-size: 30px;
 	text-align: center;
+	color: white;
 }
 
 #point {
@@ -236,15 +237,16 @@ button:active {
 }
 
 #contact {
-	width: 50%;
+	width: 20%;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 }
 
 .social {
-	width: 100px;
-	height: 100px;
+	/*width: 100px;
+	height: 100px;*/
+
 }
 
 .social:hover {
